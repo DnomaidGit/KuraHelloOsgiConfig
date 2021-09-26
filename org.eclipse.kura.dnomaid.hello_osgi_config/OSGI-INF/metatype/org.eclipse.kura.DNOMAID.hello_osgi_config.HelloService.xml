@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData xmlns="http://www.osgi.org/xmlns/metatype/v1.2.0" localization="en_us">
+    <OCD id="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService"
+        name="helloOsgiConfigDnomaid"
+        description="This is a sample metatype file for a simple configurable component">
+        <Icon resource="OSGI-INF/logodnomaid.png" size="32"/>
+        
+        <AD id="enable"
+            name="Enable"
+            type="Boolean"
+            cardinality="0"
+            required="true"
+            default="false"
+            description="Enable"/>
+        
+        <AD id="greetingType"
+            name="Greeting type"
+            type="String"
+            cardinality="0"
+            required="true"
+            default="OSGiii"
+            description="String configuration greeting type"/>        
+    </OCD>
+
+    <Designate pid="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService" > <!--factoryPid="org.eclipse.kura.dnomaid.hello_osgi_config.HelloService"-->
+        <Object ocdref="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService"/>
+    </Designate>
+</MetaData>

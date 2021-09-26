@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hello_osgi_config
+Bundle-SymbolicName: org.eclipse.kura.dnomaid.hello_osgi_config
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.eclipse.kura.dnomaid.hello_osgi_config
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Service-Component: OSGI-INF/component.xml
+Import-Package: org.eclipse.kura.configuration;version="1.2.0",
+ org.osgi.service.component;version="1.3.0",
+ org.slf4j;version="1.7.25"
+Bundle-ActivationPolicy: lazy
