@@ -1,15 +1,15 @@
 #Deployment Plugin Project File
-#Sun Sep 26 21:12:05 CEST 2021
+#Thu Sep 30 21:06:40 CEST 2021
 build.ant.name=<.>/resources/dp/helloOsgiConfigDnomaid_build.xml
 build.dp.file=<.>/resources/dp/helloOsgiConfigDnomaid.dp
 build.location=
-bundles.0.bundle_path=<.>/META-INF/exportPlugins/plugins/org.eclipse.kura.dnomaid.hello_osgi_config_1.0.0.202109262111.jar
+bundles.0.bundle_path=<.>/META-INF/exportPlugins/plugins/org.eclipse.kura.dnomaid.hello_osgi_config_1.0.0.202109302106.jar
 bundles.0.customizer=false
 bundles.0.headers.count=0
 bundles.0.missing=false
-bundles.0.name=bundles/org.eclipse.kura.dnomaid.hello_osgi_config_1.0.0.202109262111.jar
+bundles.0.name=bundles/org.eclipse.kura.dnomaid.hello_osgi_config_1.0.0.202109302106.jar
 bundles.0.symbolic_name=org.eclipse.kura.dnomaid.hello_osgi_config
-bundles.0.version=1.0.0.202109262111
+bundles.0.version=1.0.0.202109302106
 bundles.count=1
 certificates.count=0
 general.signbundles=false

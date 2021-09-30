@@ -22,7 +22,7 @@
             description="String configuration greeting type"/>        
     </OCD>
 
-    <Designate pid="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService" > <!--factoryPid="org.eclipse.kura.dnomaid.hello_osgi_config.HelloService"-->
+    <Designate pid="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService" > <!--factoryPid="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService"-->
         <Object ocdref="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService"/>
     </Designate>
 </MetaData>

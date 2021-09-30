@@ -22,5 +22,6 @@ found in folder "**resources/dp**".
 ## Links
 Eclipse Kura Documentation:
 * http://eclipse.github.io/kura/
-
+* https://download.eclipse.org/kura/docs/api/
+* https://docs.osgi.org/specification/
 ***
