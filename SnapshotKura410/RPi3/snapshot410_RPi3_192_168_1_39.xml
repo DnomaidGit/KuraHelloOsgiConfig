@@ -655,23 +655,7 @@
                 <esf:value>1000</esf:value>
             </esf:property>
         </esf:properties>
-    </esf:configuration>
-    <esf:configuration pid="org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService">
-        <esf:properties>
-            <esf:property array="false" encrypted="false" name="enable" type="Boolean">
-                <esf:value>false</esf:value>
-            </esf:property>
-            <esf:property array="false" encrypted="false" name="greetingType" type="String">
-                <esf:value>OSGiii</esf:value>
-            </esf:property>
-            <esf:property array="false" encrypted="false" name="kura.service.pid" type="String">
-                <esf:value>org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService</esf:value>
-            </esf:property>
-            <esf:property array="false" encrypted="false" name="service.pid" type="String">
-                <esf:value>org.eclipse.kura.DNOMAID.hello_osgi_config.HelloService</esf:value>
-            </esf:property>
-        </esf:properties>
-    </esf:configuration>
+    </esf:configuration>    
     <esf:configuration pid="org.eclipse.kura.web.Console">
         <esf:properties>
             <esf:property array="false" encrypted="false" name="console.username.value" type="String">
