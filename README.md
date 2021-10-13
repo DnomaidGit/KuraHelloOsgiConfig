@@ -25,6 +25,11 @@ installed [Eclipse Kura User Workspace](https://www.eclipse.org/kura/downloads.p
 The binary package ready for the installation can be
 found in folder "**resources/dp**".
 ***
+## Video
+***
+Watch the video on youtube.
+
+[![Watch the video](https://img.youtube.com/vi/KuZf8mGxevk/0.jpg)](https://www.youtube.com/watch?v=KuZf8mGxevk)
 ## Links
 Eclipse Kura Documentation:
 * http://eclipse.github.io/kura/
