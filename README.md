@@ -37,7 +37,7 @@ found in folder "**resources/dp**".
 8. Build Configuration to Manifest.
 9. Export the OSGi Bundle.
 10. Create a Deployment Package.
-***
+
 Watch the video on youtube.
 
 [![Watch the video](https://img.youtube.com/vi/KuZf8mGxevk/0.jpg)](https://www.youtube.com/watch?v=KuZf8mGxevk)
