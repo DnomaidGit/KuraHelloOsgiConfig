@@ -25,7 +25,18 @@ installed [Eclipse Kura User Workspace](https://www.eclipse.org/kura/downloads.p
 The binary package ready for the installation can be
 found in folder "**resources/dp**".
 ***
-## Video
+## How to create a OSGi project
+***
+1. Create Plug-in Project.
+2. Add Dependencies to Manifest.
+3. Create Java Class.
+4. Create Component Class.
+5. Create the Default Configuration.
+6. Resolve Dependecies.
+7. Import Package.
+8. Build Configuration to Manifest.
+9. Export the OSGi Bundle.
+10. Create a Deployment Package.
 ***
 Watch the video on youtube.
 
