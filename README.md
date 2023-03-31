@@ -41,6 +41,7 @@ found in folder "**resources/dp**".
 Watch the video on youtube.
 
 [![Watch the video](https://img.youtube.com/vi/KuZf8mGxevk/0.jpg)](https://www.youtube.com/watch?v=KuZf8mGxevk)
+* https://www.youtube.com/watch?v=KuZf8mGxevk
 ## How to run bundle OSGi
 ***
 1. Deploying Bundles.
@@ -54,6 +55,7 @@ Watch the video on youtube.
 Watch the video on youtube.
 
 [![Watch the video](https://img.youtube.com/vi/jg1X6iwS9No/0.jpg)](https://www.youtube.com/watch?v=jg1X6iwS9No)
+* https://www.youtube.com/watch?v=jg1X6iwS9No
 ## Links
 Eclipse Kura Documentation:
 * http://eclipse.github.io/kura/
